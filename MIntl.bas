@@ -1,5 +1,5 @@
 Attribute VB_Name = "MIntl"
-7 Option Compare Database
+Option Compare Database
 Option Explicit
 
 'MIT Licence
